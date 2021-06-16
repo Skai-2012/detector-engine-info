@@ -5,6 +5,6 @@ First go into the "YOUR ITEM" sprite
 Then go into costumes and draw ur sprite also ignore the hitbox idk y i put it dere
 <img src = https://github.com/Skai-2012/detector-engine-info/blob/main/D5EE19C7-45FB-495B-959A-DF2AC929A822.jpeg>
 after u finish drawing go into the detector sprite
-<img src =
+<img src = https://github.com/Skai-2012/detector-engine-info/blob/main/1B2619D6-7944-4080-83B8-13F8A5E5E3CB.jpeg>
 then put in ur item name in the "Detect" block
-<img src =
+<img src = 
